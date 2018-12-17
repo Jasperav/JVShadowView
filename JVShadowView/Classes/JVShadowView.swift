@@ -4,7 +4,7 @@ open class JVShadowView: UIView {
     
     @IBInspectable var contentTypeId: String = "" {
         didSet {
-            contentType = contentTypeId.ContentTypeJVShadowView
+            contentType = contentTypeId.contentTypeJVShadowView
             applyShadow()
         }
     }
