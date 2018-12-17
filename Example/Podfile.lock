@@ -1,0 +1,16 @@
+PODS:
+  - JVShadowView (0.1.0)
+
+DEPENDENCIES:
+  - JVShadowView (from `../`)
+
+EXTERNAL SOURCES:
+  JVShadowView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVShadowView: 71a68b94e866e21ba9ed78d57ed2cf22c781ff95
+
+PODFILE CHECKSUM: 2768f82e4a6612e3fa481925f9a02d8241b5c8b5
+
+COCOAPODS: 1.6.0.beta.1

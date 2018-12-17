@@ -1,0 +1,6 @@
+framework module Pods_JVShadowView_Tests {
+  umbrella header "Pods-JVShadowView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

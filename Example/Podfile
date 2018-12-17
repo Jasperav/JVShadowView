@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVShadowView_Tests' do
+  pod 'JVShadowView', :path => '../'
+  
+  
+end
